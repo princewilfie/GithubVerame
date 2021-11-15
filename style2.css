@@ -1,0 +1,33 @@
+h1 {
+    color:black;
+}
+
+.p1 {
+    margin:0;
+    padding:0;
+    font-size: 20px;
+    color:red;
+}
+
+.p2 {
+    margin:0;
+    padding:0;
+    font-size: 20px;
+    color:violet;
+}
+
+.p3 {
+    margin:0;
+    padding:0;
+    font-size: 20px;
+    color:green;
+}
+
+.p4 {
+    margin:0;
+    padding:0;
+    font-size: 20px;
+    color:brown;
+}
+
+
